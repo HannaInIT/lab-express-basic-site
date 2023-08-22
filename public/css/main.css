@@ -1,0 +1,17 @@
+body {
+    background-color: palevioletred;
+}
+
+nav {
+    padding: 5px 5px;
+    margin: 5vh;
+    color: white;
+    display: flex;
+    flex-direction: row;
+  justify-content: center;
+}
+
+img {
+    width: 50vw;
+    align-content: center;
+}
